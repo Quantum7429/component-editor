@@ -32,3 +32,6 @@ More Colours - Maybe
 
 ## Other
 Maybe(Radial Menu upon KeyPad 1 / Radial Menu before opening menu to switch editor)
+More Config?;
+     Favourites: Selector Screens Entries + Colours?
+More Search Options(Have [@ModId entry], entry being a normal search but limited by the mod)
