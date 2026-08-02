@@ -6,17 +6,14 @@
 - Realign Component EditBox
 - ~~Make SNBT read and edit states~~
 - Use + add to existing helper classes
-- ~~Somewhere on main screen "Access Level: Full/Name"~~
 
 
 ### Implement:
-- Add A Logging System
+- Add A Logging System(SaveManager)
 - $${\color{red}§}$$ Entity Editing(RayCast)
 - $${\color{red}§}$$ Block Editing(RayCast)
 - Logging(Admin Screen)
 - **Screens**
-     - $${\color{green}£}$$ Vault
-     - $${\color{green}£}$$ Backups
      - New screen, admin logs, all edited items/blocks/entities and their edits(Blame style?)
 
 ### Entity:
