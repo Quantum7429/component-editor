@@ -15,8 +15,8 @@
 - $${\color{red}§}$$ Block Editing(RayCast)
 - Logging(Admin Screen)
 - **Screens**
-     - $${\color{blue}©}$$ Vault
-     - $${\color{blue}©}$$ Backups
+     - $${\color{green}£}$$ Vault
+     - $${\color{green}£}$$ Backups
      - New screen, admin logs, all edited items/blocks/entities and their edits(Blame style?)
 
 ### Entity:
@@ -38,9 +38,10 @@
 - Unbreakable tag
 - Lore
 - More Colours - Maybe
+- $${\color{blue}©}$$ Fix issues with attributes
 
 ## Other
-- $${\color{green}£}$$ Maybe(Radial Menu upon KeyPad 1 ~~/ Radial Menu before opening menu to switch editor~~)
+- $${\color{blue}©}$$ Maybe(Radial Menu upon KeyPad 1 ~~/ Radial Menu before opening menu to switch editor~~)
 - More Config?;
      - Favourites: Selector Screens Entries + Colours?
 - More Search Options(Have [@ModId entry], entry being a normal search but limited by the modid)
